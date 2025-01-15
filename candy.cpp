@@ -13,7 +13,7 @@ int32_t main() {
 
         cin >> a >> b >> n;
 
-        long long cnt_candy_ate = n * 3ll;
+        long long cnt_candy_ate = n * 3;
 
         a -= cnt_candy_ate;
         b -= cnt_candy_ate;
